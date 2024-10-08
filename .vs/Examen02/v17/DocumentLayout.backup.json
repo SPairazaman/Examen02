@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CursoCodigo\\MODULO_01\\Semana_06\\Examen02\\Examen02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64729482-7E0F-4E15-BB0D-DEADC9F83E40}|Examen02.csproj|c:\\cursocodigo\\modulo_01\\semana_06\\examen02\\examen02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64729482-7E0F-4E15-BB0D-DEADC9F83E40}|Examen02.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64729482-7E0F-4E15-BB0D-DEADC9F83E40}|Examen02.csproj|c:\\cursocodigo\\modulo_01\\semana_06\\examen02\\examen02\\clases\\gerenterrhh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64729482-7E0F-4E15-BB0D-DEADC9F83E40}|Examen02.csproj|solutionrelative:clases\\gerenterrhh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64729482-7E0F-4E15-BB0D-DEADC9F83E40}|Examen02.csproj|c:\\cursocodigo\\modulo_01\\semana_06\\examen02\\examen02\\clases\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64729482-7E0F-4E15-BB0D-DEADC9F83E40}|Examen02.csproj|solutionrelative:clases\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64729482-7E0F-4E15-BB0D-DEADC9F83E40}|Examen02.csproj|c:\\cursocodigo\\modulo_01\\semana_06\\examen02\\examen02\\clases\\constantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64729482-7E0F-4E15-BB0D-DEADC9F83E40}|Examen02.csproj|solutionrelative:clases\\constantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64729482-7E0F-4E15-BB0D-DEADC9F83E40}|Examen02.csproj|c:\\cursocodigo\\modulo_01\\semana_06\\examen02\\examen02\\interfaces\\idescuentoimpuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64729482-7E0F-4E15-BB0D-DEADC9F83E40}|Examen02.csproj|solutionrelative:interfaces\\idescuentoimpuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64729482-7E0F-4E15-BB0D-DEADC9F83E40}|Examen02.csproj|c:\\cursocodigo\\modulo_01\\semana_06\\examen02\\examen02\\clases\\consultorexterno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64729482-7E0F-4E15-BB0D-DEADC9F83E40}|Examen02.csproj|solutionrelative:clases\\consultorexterno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64729482-7E0F-4E15-BB0D-DEADC9F83E40}|Examen02.csproj|c:\\cursocodigo\\modulo_01\\semana_06\\examen02\\examen02\\clases\\empleadobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64729482-7E0F-4E15-BB0D-DEADC9F83E40}|Examen02.csproj|solutionrelative:clases\\empleadobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64729482-7E0F-4E15-BB0D-DEADC9F83E40}|Examen02.csproj|c:\\cursocodigo\\modulo_01\\semana_06\\examen02\\examen02\\clases\\desarrollador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64729482-7E0F-4E15-BB0D-DEADC9F83E40}|Examen02.csproj|solutionrelative:clases\\desarrollador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64729482-7E0F-4E15-BB0D-DEADC9F83E40}|Examen02.csproj|c:\\cursocodigo\\modulo_01\\semana_06\\examen02\\examen02\\interfaces\\isueldobonificable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64729482-7E0F-4E15-BB0D-DEADC9F83E40}|Examen02.csproj|solutionrelative:interfaces\\isueldobonificable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64729482-7E0F-4E15-BB0D-DEADC9F83E40}|Examen02.csproj|c:\\cursocodigo\\modulo_01\\semana_06\\examen02\\examen02\\interfaces\\iempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64729482-7E0F-4E15-BB0D-DEADC9F83E40}|Examen02.csproj|solutionrelative:interfaces\\iempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsultorExterno.cs",
+              "DocumentMoniker": "C:\\CursoCodigo\\MODULO_01\\Semana_06\\Examen02\\Examen02\\Clases\\ConsultorExterno.cs",
+              "RelativeDocumentMoniker": "Clases\\ConsultorExterno.cs",
+              "ToolTip": "C:\\CursoCodigo\\MODULO_01\\Semana_06\\Examen02\\Examen02\\Clases\\ConsultorExterno.cs",
+              "RelativeToolTip": "Clases\\ConsultorExterno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T01:43:03.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GerenteRRHH.cs",
+              "DocumentMoniker": "C:\\CursoCodigo\\MODULO_01\\Semana_06\\Examen02\\Examen02\\Clases\\GerenteRRHH.cs",
+              "RelativeDocumentMoniker": "Clases\\GerenteRRHH.cs",
+              "ToolTip": "C:\\CursoCodigo\\MODULO_01\\Semana_06\\Examen02\\Examen02\\Clases\\GerenteRRHH.cs",
+              "RelativeToolTip": "Clases\\GerenteRRHH.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T01:40:09.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDescuentoImpuesto.cs",
+              "DocumentMoniker": "C:\\CursoCodigo\\MODULO_01\\Semana_06\\Examen02\\Examen02\\Interfaces\\IDescuentoImpuesto.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IDescuentoImpuesto.cs",
+              "ToolTip": "C:\\CursoCodigo\\MODULO_01\\Semana_06\\Examen02\\Examen02\\Interfaces\\IDescuentoImpuesto.cs",
+              "RelativeToolTip": "Interfaces\\IDescuentoImpuesto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T01:27:17.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Desarrollador.cs",
+              "DocumentMoniker": "C:\\CursoCodigo\\MODULO_01\\Semana_06\\Examen02\\Examen02\\Clases\\Desarrollador.cs",
+              "RelativeDocumentMoniker": "Clases\\Desarrollador.cs",
+              "ToolTip": "C:\\CursoCodigo\\MODULO_01\\Semana_06\\Examen02\\Examen02\\Clases\\Desarrollador.cs",
+              "RelativeToolTip": "Clases\\Desarrollador.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvw8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T01:24:04.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gerente.cs",
+              "DocumentMoniker": "C:\\CursoCodigo\\MODULO_01\\Semana_06\\Examen02\\Examen02\\Clases\\Gerente.cs",
+              "RelativeDocumentMoniker": "Clases\\Gerente.cs",
+              "ToolTip": "C:\\CursoCodigo\\MODULO_01\\Semana_06\\Examen02\\Examen02\\Clases\\Gerente.cs",
+              "RelativeToolTip": "Clases\\Gerente.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T01:23:52.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmpleadoBase.cs",
+              "DocumentMoniker": "C:\\CursoCodigo\\MODULO_01\\Semana_06\\Examen02\\Examen02\\Clases\\EmpleadoBase.cs",
+              "RelativeDocumentMoniker": "Clases\\EmpleadoBase.cs",
+              "ToolTip": "C:\\CursoCodigo\\MODULO_01\\Semana_06\\Examen02\\Examen02\\Clases\\EmpleadoBase.cs",
+              "RelativeToolTip": "Clases\\EmpleadoBase.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwBQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T01:16:32.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISueldoBonificable.cs",
+              "DocumentMoniker": "C:\\CursoCodigo\\MODULO_01\\Semana_06\\Examen02\\Examen02\\Interfaces\\ISueldoBonificable.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ISueldoBonificable.cs",
+              "ToolTip": "C:\\CursoCodigo\\MODULO_01\\Semana_06\\Examen02\\Examen02\\Interfaces\\ISueldoBonificable.cs",
+              "RelativeToolTip": "Interfaces\\ISueldoBonificable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T01:15:36.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEmpleado.cs",
+              "DocumentMoniker": "C:\\CursoCodigo\\MODULO_01\\Semana_06\\Examen02\\Examen02\\Interfaces\\IEmpleado.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IEmpleado.cs",
+              "ToolTip": "C:\\CursoCodigo\\MODULO_01\\Semana_06\\Examen02\\Examen02\\Interfaces\\IEmpleado.cs",
+              "RelativeToolTip": "Interfaces\\IEmpleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T01:14:21.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CursoCodigo\\MODULO_01\\Semana_06\\Examen02\\Examen02\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\CursoCodigo\\MODULO_01\\Semana_06\\Examen02\\Examen02\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAUwFcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T01:10:49.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Constantes.cs",
+              "DocumentMoniker": "C:\\CursoCodigo\\MODULO_01\\Semana_06\\Examen02\\Examen02\\Clases\\Constantes.cs",
+              "RelativeDocumentMoniker": "Clases\\Constantes.cs",
+              "ToolTip": "C:\\CursoCodigo\\MODULO_01\\Semana_06\\Examen02\\Examen02\\Clases\\Constantes.cs",
+              "RelativeToolTip": "Clases\\Constantes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T01:57:36.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
